@@ -12,5 +12,9 @@ Yapılabilecek işlemler:
 5-Like(URL ile)
 
 "hesaplar.txt" dosyası oluşturup her satıra bir kullanıcı bilgisini giriniz. Örnek veri girişi:
+
+
 kullaniciadi1 sifre1
+
+
 kullaniciadi2 sifre2
